@@ -1,0 +1,170 @@
+{
+  "hello":[
+    "Hello, My Name is Rok the Chess Bot"
+  ],
+  "bye":[
+    "Bye see you next time.",
+    "See you later"
+  ],
+
+  "pieces":[
+    "Rook",
+    "Knight",
+    "Bishop",
+    "Knight",
+    "Pawn",
+    "Queen",
+    "King"
+  ],
+
+  "about":[
+    "This bot is used to help people learn chess."
+  ],
+
+  "strategy":[
+      "What Strategy would you like to learn?",
+      "I can teach several different kinds of opening moves"
+
+  ],
+
+  "pawn":[
+    "Pawns if they haven't moved can move 2 spots",
+    "If Pawns have moved they can only move by moving one space forward",
+  ],
+
+  "knight":[
+    "Knights can move 2 spots up and 1 to the right",
+    "Knights can move 2 spots up and 1 to the left",
+    "Knights can move 2 spots down and 1 to the right",
+    "Knights can move 2 spots down and 1 to the left",
+
+    "Knights can move 1 spot up and 2 to the right",
+    "Knights can move 1 spot up and 2 to the left",
+    "Knights can move 1 spot down and 2 to the right",
+    "Knights can move 1 spot down and 2 to the left"
+  ],
+
+  "bishop":[
+    "Bishops can only move diagonally in any direction"
+  ],
+
+  "rook":[
+    "Rooks can move Vertically and as many spots as they want",
+    "Rooks can move Horizontally and as many spots as they want"
+  ],
+  "queen":[
+    "Queens can move Vertically(Forwards and Backwards) and as many spots as they want",
+    "Queens can move Horizontally(Left and Right) and as many spots as they want",
+    "Queens can move diagonally(Anyway) and as many spots as they want",
+  ],
+
+  "king":[
+    "The king can only move one space in any direction, as long as that doesn't put him check",
+    "The king has one special move"
+  ],
+  "Ignore Words":[
+      "the",
+      "at",
+      "of",
+      "a",
+      "to",
+      "in",
+      "is",
+      "you",
+      "that",
+      "it",
+      "he",
+      "was",
+      "for",
+      "on",
+      "are",
+      "as",
+      "with",
+      "his",
+      "they",
+      "I",
+      "be",
+      "this",
+      "have",
+      "from",
+      "or",
+      "one",
+      "had",
+      "by",
+      "word",
+      "but",
+      "not",
+      "what",
+      "all",
+      "were",
+      "we",
+      "when",
+      "your",
+      "can",
+      "said",
+      "there",
+      "use",
+      "an",
+      "each",
+      "which",
+      "she",
+      "do",
+      "how",
+      "their",
+      "if",
+      "will",
+      "up",
+      "other",
+      "about",
+      "out",
+      "many",
+      "then",
+      "them",
+      "these",
+      "so",
+      "some",
+      "her",
+      "would",
+      "make",
+      "like",
+      "him",
+      "into",
+      "time",
+      "has",
+      "look",
+      "more",
+      "write",
+      "go",
+      "see",
+      "number",
+      "no",
+      "way",
+      "could",
+      "people",
+      "my",
+      "than",
+      "first",
+      "water",
+      "been",
+      "call",
+      "who",
+      "oil",
+      "its",
+      "now",
+      "find",
+      "long",
+      "down",
+      "day",
+      "did",
+      "come",
+      "made",
+      "may",
+      "part"
+
+
+  ]
+
+
+
+
+}
